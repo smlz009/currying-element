@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "pnpm --filter @currying-element/play dev",
     "docs:dev":"pnpm --filter @currying-element/docs dev",
-    "docs:build":"pnpm --filter @currying-element/docs build"
+    "docs:build":"pnpm --filter @currying-element/docs build",
+    "test": "echo \"todo\""
   },
   "keywords": [],
   "author": "",
